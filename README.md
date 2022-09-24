@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HelloEY
-- 👀 I’m interested in minecraft.2b2t
+- 👀 I’m interested in minecraft anarchy servers
 - 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate on ?
 - 📫 How to reach me ...
