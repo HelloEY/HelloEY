@@ -1,4 +1,4 @@
-<div align="center"><img height=85px src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=HEY+WILL+ALWAYS+BE+WITH+U!"><img height=170px src="https://github-readme-stats.vercel.app/api?username=HEY&theme=buefy&locale=en"><img height=170px src="https://github-readme-stats.vercel.app/api/top-langs/?username=HEY&theme=buefy&locale=en"></div>
+<div align="center"><img height=85px src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=ihack+5+is+available!"><img height=170px src="https://github-readme-stats.vercel.app/api?username=HEY&theme=buefy&locale=en"><img height=170px src="https://github-readme-stats.vercel.app/api/top-langs/?username=HEY&theme=buefy&locale=en"></div>
 <!--
 **HEY/HEY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
